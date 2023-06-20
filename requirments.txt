@@ -1,6 +1,6 @@
-emoji
 keras
 pandas
 tensorflow
 streamlit
 base64
+emoji
